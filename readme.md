@@ -13,7 +13,6 @@ This informatin is later used to extract some information from Wikipedia about e
  - leaders_scraper.py
 
 ### To do:
-- Modify the get_leaders() function to refresh the cookie.
 - Update this readme file with "Instalation" and "usage.
 
 ## Personal situation
