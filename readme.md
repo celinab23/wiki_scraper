@@ -10,15 +10,17 @@ This informatin is later used to extract some information from Wikipedia about e
 ###  Done:
  - get_first paragraph function.
  - get_leaders() function that integrates a call to get_first paragraph.
- - 
+ - leaders_scraper.py
 
 ### To do:
 - Modify the get_leaders() function to refresh the cookie.
 - Update this readme file with "Instalation" and "usage.
 
 ## Personal situation
-Lost too much time in setting up the environment.
-Unable to complete the get_leaders() function to refresh the cookie and effectively generate the dictionaty.
+- Lost too much time in setting up the environment.
+- Still strugling with Git/GitHub
 
 ## Contributors
 Celina Bolaños
+
+

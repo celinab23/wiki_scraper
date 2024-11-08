@@ -12,9 +12,6 @@ def get_first_paragraph(wikipedia_url, session: Session) -> str:
    req = session.get(wikipedia_url)
    soup = BeautifulSoup(req.content)
    
-   # Use regex to get the name
-   # name = url.rsplit('_', 1)[-1]
-   # name = re.sub(r'_', ' ', name)
    name = list(soup.find('h1').text)
    
    # Create paragraph list and empty first_paragraph variable
