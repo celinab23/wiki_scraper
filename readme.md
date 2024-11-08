@@ -5,6 +5,13 @@ Welcome to my first web scraping project.
 The Wikipedia scraper consist in retrieving information from one site about the leaders of different countries.
 This informatin is later used to extract some information from Wikipedia about each coutry (ex)president.
 
+## Requirements
+- Python 3.13.0
+Necessary modules:
+- requests
+- BeautifulSoup
+- re (regular expressions)
+- json
 
 ## Timeline
 ###  Done:
@@ -14,6 +21,7 @@ This informatin is later used to extract some information from Wikipedia about e
 
 ### To do:
 - Update this readme file with "Instalation" and "usage.
+- Make requirements.txt
 
 ## Personal situation
 - Lost too much time in setting up the environment.
