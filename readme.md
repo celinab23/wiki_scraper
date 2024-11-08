@@ -20,6 +20,7 @@ Necessary modules:
  - leaders_scraper.py
 
 ### To do:
+- Improve the use of regular expressions in get_first_paragraph.
 - Update this readme file with "Instalation" and "usage.
 - Make requirements.txt
 
